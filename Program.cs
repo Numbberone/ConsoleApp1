@@ -6,3 +6,4 @@ Console.WriteLine("Сумма чисел" + sum);
 Console.WriteLine("Я сандан");
 Console.WriteLine("XD");
 Console.WriteLine("z");
+Console.WriteLine("vc");
