@@ -4,4 +4,5 @@ Console.WriteLine("Hello, World!");
 int sum  = Numbers.Sum();
 Console.WriteLine("Сумма чисел" + sum);
 Console.WriteLine("Я сандан");
-Console.WriteLine("XD")
+Console.WriteLine("XD");
+Console.WriteLine("z");
